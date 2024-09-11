@@ -17,9 +17,9 @@ export const projectsData = [
     {
         id: 2,
         name: 'IGORAZA Website',
-        description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
         tools: ['Express', 'figma','NextJS', 'Django','MongoDB'],
         role: 'Project Manager & TechLead',
+        description: 'The drafting of IGORAZA website was a meticulous process focused on creating a seamless, user-friendly experience that reflect innovative approach to technology. Our design team worked closely with developers to craft a clean, modern layout that highlights our core services, such as web and app development, blockchain solutions, and cybersecurity. Every detail, from the intuitive navigation to the engaging content, was designed to ensure that visitors can easily explore our offerings and understand the value we bring to businesses. The website stands as a digital gateway to our expertise, innovation, and commitment to client success.',
         code: '',
         demo: '',
         image: travel,
