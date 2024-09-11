@@ -1,5 +1,5 @@
 export const personalData = {
-  name: "GOWRISHANKAR V.V",
+  name: "GOWRISHANKAR V.V.",
   profile: '/profile.png',
   designation: "IGORAZA",
   description: "My name is Gowrishankar V.V.  I’m a tech enthusiast turned entrepreneur with a mission to innovate and inspire. As the Founder & CEO of IGORAZA PVT. LTD., I am dedicated to chasing the latest tech trends and building solutions that truly matter. Dive in to learn more about my journey! 👇With a solid background in software engineering, I’ve dedicated my career to creating impactful tech solutions. My entrepreneurial spirit led me to establish IGORAZA PVT. LTD., By integrating my enthusiasm for the latest technology with product development, I spearhead innovative solutions. 🚀 .",
