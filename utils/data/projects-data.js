@@ -26,7 +26,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        name: 'Kerala Cashew Corporation ',
+        name: 'Kerala Cashew Corporation Website',
         description: 'The Website boasts a visually appealing and user-friendly interface, reflecting  brand identity and highlighting their high-quality products. It will Provides comprehensive information about products, their certifications (ISO 22000-2005), and a clear call-to-action for customers to shop now. The design optimized for various screen sizes, ensuring a seamless user experience across desktops, tablets, and mobile devices.',
         tools: ['Flutter','Dart', 'MongoDB', , 'Django', 'Hostinger', 'Node JS',  'Apache', 'EC2', 'NginX'],
         code: '',
