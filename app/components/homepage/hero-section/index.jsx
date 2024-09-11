@@ -52,7 +52,7 @@ function HeroSection() {
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
-              <FaFacebook size={30} />
+              <FaMedium size={30} />
             </Link>
             <Link
               href={personalData.leetcode}
