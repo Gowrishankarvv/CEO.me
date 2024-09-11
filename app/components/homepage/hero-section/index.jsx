@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { FaFacebook, FaTwitterSquare,FaInstagram } from "react-icons/fa";
+import { FaMedium } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 
